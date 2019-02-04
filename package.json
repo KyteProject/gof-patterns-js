@@ -1,5 +1,10 @@
 {
   "devDependencies": {
+    "babel-eslint": "^10.0.1",
     "eslint": "^5.13.0"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
   }
 }
