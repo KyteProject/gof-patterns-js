@@ -1,4 +1,4 @@
-var logger = require('./Logger');
+const logger = require('./Logger');
 
 class Shopper {
 	constructor(name, money = 0) {
