@@ -1,5 +1,5 @@
-const expect = require('chai').expect;
-const scout_prototype = require('../prototype/scout_prototype');
+import { expect } from 'chai';
+import scout_prototype from '../prototype/scout_prototype';
 
 describe('prototype test', () => {
 	it('clone', () => {

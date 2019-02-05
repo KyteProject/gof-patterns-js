@@ -1,4 +1,5 @@
-const expect = require('chai').expect;
+// const expect = require('chai').expect;
+import { expect } from 'chai';
 
 import Store from '../singleton/Store';
 import Shopper from '../singleton/Shopper';
